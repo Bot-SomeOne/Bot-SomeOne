@@ -18,7 +18,7 @@
           text-decoration: none;
           "
    >
-  &#9758;	More &#9756;	
+  &#9758;	More Profile &#9756;	
 </a>
 
 
